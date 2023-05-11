@@ -35,7 +35,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I am a bicultural, soon-to-be Software Engineering graduate with a passion for programming to create and be creative. I excel at planning ahead and communicating with others to ensure a strong finished product for any project. I aim to put these skills to use in the development of video games, where my passion lies.
+about_me_description: I'm a programmer and passionate gamer with the desire to create unique games that anyone can appreciate and have a good time playing! I love working alongside other people who appreciate games and am always happy to chat about playing or making videogames!
 about_me_cv_download_link: https://www.dropbox.com/s/ykbwws7nse8b76x/CV_IanSeidman.pdf?dl=0
 
 
@@ -84,7 +84,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Feel free to contact me with any questions, I'm always happy to talk about videogames after all!
+contact_description: Feel free to contact me with any questions, or even just to chat!
 
 # GITHUB-METADATA
 # Set this to your forked repository
