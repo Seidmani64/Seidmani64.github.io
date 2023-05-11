@@ -19,6 +19,7 @@
   tags:
     - tag: Platformer
     - tag: Shooter
+    - tag: Unity
 
 - name: Untitled Wizard Game
   descr: "A unique blend of RPG and FPS where you must defeat the endless waves of slimes to gather experience, learn new spells and utilize them to explore new parts of the world to uncover the truth of your journey."
@@ -26,3 +27,4 @@
   tags:
     - tag: RPG
     - tag: FPS
+    - tag: Unity
