@@ -16,6 +16,7 @@
 - name: Planet Crash
   descr: "A 3D Platformer where you must use your wits and a variety of weapons to traverse different worlds and help prevent their destruction at the hands of the evil Dr. Rotten Heim!"
   demo: https://foundtexas.itch.io/planet-crash
+  code: https://github.com/FoundTexas/Equipo-2-TC3003C.71
   tags:
     - tag: Platformer
     - tag: Shooter
@@ -24,6 +25,7 @@
 - name: Untitled Wizard Game
   descr: "A unique blend of RPG and FPS where you must defeat the endless waves of slimes to gather experience, learn new spells and utilize them to explore new parts of the world to uncover the truth of your journey."
   demo: https://github.com/Seidmani64/UntitledWizardGame
+  code: https://github.com/Seidmani64/UntitledWizardGame
   tags:
     - tag: RPG
     - tag: FPS
