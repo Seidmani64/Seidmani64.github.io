@@ -104,16 +104,16 @@
         </a>
       {% endif %}
 
-	{% if site.itchio_username != null %}
-        <a class="social-link twitter" aria-label="My Twitter" target="_blank"
-          rel="noreferrer" href="https://twitter.com/{{site.twitter_username}}"
+	{% if site.itch_username != null %}
+        <a class="social-link itch-io" aria-label="My Itch.io" target="_blank"
+          rel="noreferrer" href="https://{{site.itch-io_username}}.itch.io"
         >
           <svg viewBox="0 0 200 200" class="circle">
             <circle cx="100" cy="100" r="80" />
           </svg>
           <div class="social">
             <svg class="social-svg" viewBox="0 0 48 48">
-              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#twitter" | prepend: site.baseurl }}"></use>
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#itch-io" | prepend: site.baseurl }}""></use>
             </svg>
           </div>
           <span class="label">Itch.io</span>
