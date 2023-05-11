@@ -36,6 +36,8 @@ show_aboutme_card: true
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
 about_me_description: I am a bicultural, soon-to-be Software Engineering graduate with a passion for programming to create and be creative. I excel at planning ahead and communicating with others to ensure a strong finished product for any project. I aim to put these skills to use in the development of video games, where my passion lies.
+about_me_cv_download_link: https://example.com/
+
 
 # SKILLS SECTION
 # show_skills_card:
