@@ -22,9 +22,9 @@
     - tag: Shooter
     - tag: Unity
 
-- name: Untitled Wizard Game
+- name: Mage of Yore
   descr: "A unique blend of RPG and FPS where you must defeat the endless waves of slimes to gather experience, learn new spells and utilize them to explore new parts of the world to uncover the truth of your journey."
-  demo: https://github.com/Seidmani64/MageOfYore
+  demo: https://seidmani64.itch.io/mage-of-yore
   code: https://github.com/Seidmani64/MageOfYore
   tags:
     - tag: RPG
